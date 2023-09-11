@@ -4,7 +4,7 @@
 Desenvolvedor Backend </p>
 
 <p style= "font-family: verdana, courier,arial,helvetica;">
-Em busca de oportunidade para aplicar e melhorar minhas habilidades em desenvolvimento de software e contribuir para projetos de sucesso.</p>
+Em busca de oportunidades para aplicar e melhorar minhas habilidades em desenvolvimento de software e contribuir para projetos de sucesso.</p>
 
 <p style="text-align: right">
 <a href="mailto:Eduardo-Rodrigues-Dos-Santos@proton.me?subject=&body="><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
