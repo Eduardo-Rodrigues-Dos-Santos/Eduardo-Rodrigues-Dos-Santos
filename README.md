@@ -12,7 +12,7 @@ Em busca de oportunidades para aplicar e melhorar minhas habilidades em desenvol
 </p>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Eduardo-Rodrigues-Dos-Santos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rodrigues-Dos-Santos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Rodrigues-Dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
