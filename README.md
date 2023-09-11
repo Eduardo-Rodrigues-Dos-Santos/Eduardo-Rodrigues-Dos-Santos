@@ -7,12 +7,12 @@ Desenvolvedor Backend </p>
 Em busca de oportunidades para aplicar e melhorar minhas habilidades em desenvolvimento de software e contribuir para projetos de sucesso.</p>
 
 <p style="text-align: right">
-<a href="mailto:Eduardo-Rodrigues-Dos-Santos@proton.me?subject=&body=" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://wa.me/5562993385234?text=%F0%9F%96%96Vida%20longa%20e%20pr%C3%B3spera!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="mailto:Eduardo-Rodrigues-Dos-Santos@proton.me?subject=&body="><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+<a href="https://wa.me/5562993385234?text=%F0%9F%96%96Vida%20longa%20e%20pr%C3%B3spera!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <div>
-<a href="https://github.com/Eduardo-Rodrigues-Dos-Santos" target="_blank">
+<a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Rodrigues-Dos-Santos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Rodrigues-Dos-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
