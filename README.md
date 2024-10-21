@@ -2,7 +2,7 @@
 DESENVOLVEDOR BACKEND </p>
 <p style="text-align: right">
 <a href="mailto:Eduardo-Rodrigues-Dos-Santos@proton.me?subject=&body="><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://wa.me/5562993628550?text=%F0%9F%96%96Vida%20longa%20e%20pr%C3%B3spera!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://wa.me/5562994466050?text=%F0%9F%96%96Vida%20longa%20e%20pr%C3%B3spera!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 
 <div>
@@ -13,6 +13,7 @@ DESENVOLVEDOR BACKEND </p>
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![OAUTH2](https://img.shields.io/badge/OAUTH2-00000F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JPA-FF4500?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Flyway-%23FF0000?style=for-the-badge&logo=flyway)
