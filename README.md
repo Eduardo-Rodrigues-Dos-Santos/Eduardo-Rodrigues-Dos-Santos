@@ -22,6 +22,13 @@ DESENVOLVEDOR BACKEND </p>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Eduardo-Rodrigues-Dos-Santos/Eduardo-Rodrigues-Dos-Santos/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **Eduardo-Rodrigues-Dos-Santos/Eduardo-Rodrigues-Dos-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
